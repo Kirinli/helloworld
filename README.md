@@ -1,3 +1,3 @@
 # helloworld
-starting in github
+starting in github\n
 #include<stdio.h>
